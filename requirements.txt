@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+fastapi-mail
+python-multipart
+slowapi
+python-jose
+passlib
+fastapi-utils
