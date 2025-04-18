@@ -8,3 +8,4 @@ slowapi
 python-jose
 passlib
 fastapi-utils
+typing_inspect
